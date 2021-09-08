@@ -8,18 +8,15 @@
     "typescript"
   ],
   "author": "Thomas <t.dvornik@salesforce.com>",
-  "homepage": "https://github.com/forcedotcom/sfdx-dev-packages#readme",
+  "homepage": "https://github.com/forcedotcom/eslint-config-salesforce-typescript#readme",
   "license": "BSD-3-Clause",
   "main": ".eslintrc.js",
   "files": [
     ".eslintrc.js"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/forcedotcom/sfdx-dev-packages.git"
-  },
+  "repository": "forcedotcom/eslint-config-salesforce-typescript",
   "bugs": {
-    "url": "https://github.com/forcedotcom/sfdx-dev-packages/issues"
+    "url": "https://github.com/forcedotcom/eslint-config-salesforce-typescript/issues"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.2.0",
@@ -33,5 +30,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "scripts": {
+    "build": "echo 'no build necessary'"
   }
 }

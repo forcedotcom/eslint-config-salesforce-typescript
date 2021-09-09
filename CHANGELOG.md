@@ -1,7 +1,13 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.2.8 (2021-09-09)
+
+
+### Features
+
+* set up CI ([80a6ff9](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/80a6ff9c85c158a96381e3f69a4a3b35bdef68a0))
 
 ## [0.2.8](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-typescript@0.2.7...eslint-config-salesforce-typescript@0.2.8) (2021-06-03)
 

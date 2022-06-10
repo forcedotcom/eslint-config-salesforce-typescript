@@ -66,6 +66,8 @@ module.exports = {
     '@typescript-eslint/prefer-for-of': 'error',
     '@typescript-eslint/prefer-function-type': 'error',
     '@typescript-eslint/return-await': 'error',
+    // turning off the base rule is recommended by ts-eslint
+    "no-return-await": "off",
     '@typescript-eslint/quotes': [
       'error',
       'single',

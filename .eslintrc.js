@@ -72,6 +72,7 @@ module.exports = {
         avoidEscape: true,
       },
     ],
+    '@typescript-eslint/switch-exhaustiveness-check': 'error',
     '@typescript-eslint/type-annotation-spacing': 'error',
     '@typescript-eslint/unified-signatures': 'error',
     "no-shadow": "off",

@@ -65,6 +65,7 @@ module.exports = {
     "@typescript-eslint/no-shadow": "error",
     '@typescript-eslint/prefer-for-of': 'error',
     '@typescript-eslint/prefer-function-type': 'error',
+    '@typescript-eslint/prefer-string-starts-ends-with': 'error',
     '@typescript-eslint/quotes': [
       'error',
       'single',

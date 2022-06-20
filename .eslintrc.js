@@ -66,6 +66,7 @@ module.exports = {
     '@typescript-eslint/prefer-for-of': 'error',
     '@typescript-eslint/prefer-function-type': 'error',
     '@typescript-eslint/prefer-optional-chain': 'error',
+    '@typescript-eslint/prefer-includes': 'error',
     '@typescript-eslint/quotes': [
       'error',
       'single',
@@ -73,6 +74,7 @@ module.exports = {
         avoidEscape: true,
       },
     ],
+    '@typescript-eslint/switch-exhaustiveness-check': 'error',
     '@typescript-eslint/type-annotation-spacing': 'error',
     '@typescript-eslint/unified-signatures': 'error',
     "no-shadow": "off",

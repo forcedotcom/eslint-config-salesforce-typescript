@@ -63,11 +63,11 @@ module.exports = {
     ],
     '@typescript-eslint/member-ordering': 'error',
     "@typescript-eslint/no-shadow": "error",
-    '@typescript-eslint/prefer-for-of': 'error',
-    '@typescript-eslint/prefer-function-type': 'error',
     '@typescript-eslint/return-await': 'error',
     // turning off the base rule is recommended by ts-eslint
     'no-return-await': 'off',
+    '@typescript-eslint/prefer-for-of': 'error',
+    '@typescript-eslint/prefer-function-type': 'error',
     '@typescript-eslint/prefer-includes': 'error',
     '@typescript-eslint/prefer-nullish-coalescing': 'error',
     '@typescript-eslint/prefer-optional-chain': 'error',

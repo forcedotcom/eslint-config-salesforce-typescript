@@ -65,6 +65,10 @@ module.exports = {
     "@typescript-eslint/no-shadow": "error",
     '@typescript-eslint/prefer-for-of': 'error',
     '@typescript-eslint/prefer-function-type': 'error',
+    '@typescript-eslint/prefer-includes': 'error',
+    '@typescript-eslint/prefer-nullish-coalescing': 'error',
+    '@typescript-eslint/prefer-optional-chain': 'error',
+    '@typescript-eslint/prefer-reduce-type-parameter': 'error',
     '@typescript-eslint/prefer-string-starts-ends-with': 'error',
     '@typescript-eslint/quotes': [
       'error',
@@ -73,6 +77,7 @@ module.exports = {
         avoidEscape: true,
       },
     ],
+    '@typescript-eslint/switch-exhaustiveness-check': 'error',
     '@typescript-eslint/type-annotation-spacing': 'error',
     '@typescript-eslint/unified-signatures': 'error',
     "no-shadow": "off",

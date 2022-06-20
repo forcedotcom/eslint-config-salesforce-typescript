@@ -69,6 +69,9 @@ module.exports = {
     // turning off the base rule is recommended by ts-eslint
     'no-return-await': 'off',
     '@typescript-eslint/prefer-includes': 'error',
+    '@typescript-eslint/prefer-nullish-coalescing': 'error',
+    '@typescript-eslint/prefer-optional-chain': 'error',
+    '@typescript-eslint/prefer-reduce-type-parameter': 'error',
     '@typescript-eslint/quotes': [
       'error',
       'single',

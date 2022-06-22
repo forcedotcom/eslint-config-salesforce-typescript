@@ -24,6 +24,7 @@ module.exports = {
     // Override @typescript-eslint/recommended
     '@typescript-eslint/no-explicit-any': 'error',
     '@typescript-eslint/no-namespace': 'off',
+    '@typescript-eslint/no-unused-vars': ['warn', { 'ignoreRestSiblings': true }],
     '@typescript-eslint/restrict-template-expressions': [
       'error',
       {

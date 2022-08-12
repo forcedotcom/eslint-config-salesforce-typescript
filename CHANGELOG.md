@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v1.1.0...v1.1.1) (2022-08-12)
+
+
+### Bug Fixes
+
+* remove reference to prettier from eslintrc ([6c8c307](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/6c8c307032478a0e07feb9b1655e50e06b7fef3c))
+
 ## [1.1.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v1.0.0...v1.1.0) (2022-08-12)
 
 

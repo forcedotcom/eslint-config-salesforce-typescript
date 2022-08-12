@@ -7,7 +7,7 @@ module.exports = {
     'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
     'plugin:@typescript-eslint/recommended-requiring-type-checking',
-    'plugin:prettier/recommended',
+    'eslint-config-prettier',
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
@@ -19,7 +19,7 @@ module.exports = {
     ],
     sourceType: 'module',
   },
-  plugins: ['@typescript-eslint', 'eslint-plugin-import', 'eslint-plugin-jsdoc', 'prettier'],
+  plugins: ['@typescript-eslint', 'eslint-plugin-import', 'eslint-plugin-jsdoc'],
   rules: {
     // Override @typescript-eslint/recommended
     '@typescript-eslint/no-explicit-any': 'error',

@@ -34,6 +34,6 @@ jobs:
           - https://github.com/salesforcecli/plugin-user
 
     with:
-      packageName: "eslint-plugin-sf-plugin"
+      packageName: "eslint-config-salesforce-typescript"
       externalProjectGitUrl: ${{ matrix.externalProjectGitUrl }}
       preBuildCommands: yarn remove @types/jest

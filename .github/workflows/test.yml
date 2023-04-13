@@ -36,4 +36,3 @@ jobs:
     with:
       packageName: "eslint-config-salesforce-typescript"
       externalProjectGitUrl: ${{ matrix.externalProjectGitUrl }}
-      preBuildCommands: yarn remove @types/jest

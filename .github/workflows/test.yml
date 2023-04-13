@@ -32,6 +32,8 @@ jobs:
           - https://github.com/salesforcecli/plugin-sobject
           - https://github.com/salesforcecli/plugin-templates
           - https://github.com/salesforcecli/plugin-user
+          - https://github.com/forcedotcom/source-tracking
+          - https://github.com/forcedotcom/source-deploy-retrieve
 
     with:
       packageName: "eslint-config-salesforce-typescript"

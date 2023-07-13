@@ -1,22 +1,36 @@
-# Changelog
+## [1.1.2](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v1.1.1...1.1.2) (2023-07-13)
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.1.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v1.1.0...v1.1.1) (2022-08-12)
+### Bug Fixes
+
+* **deps:** bump semver from 6.3.0 to 6.3.1 ([575bd5f](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/575bd5fae2e5f570023f367fb7a2ea96f455c224))
+
+
+
+## [1.1.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v1.1.0...v1.1.1) (2022-08-12)
 
 
 ### Bug Fixes
 
 * remove reference to prettier from eslintrc ([6c8c307](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/6c8c307032478a0e07feb9b1655e50e06b7fef3c))
 
-## [1.1.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v1.0.0...v1.1.0) (2022-08-12)
+
+
+# [1.1.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v1.0.0...v1.1.0) (2022-08-12)
 
 
 ### Features
 
 * followup for prettier/eslint plugin removal ([70cf09a](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/70cf09a37d42ee4aa801682fd17b2ddaffb7fdd8))
 
-## [1.0.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v0.2.8...v1.0.0) (2022-06-20)
+
+
+# [1.0.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v0.2.8...v1.0.0) (2022-06-20)
+
+
+### Bug Fixes
+
+* turn off base rule ([a4e9d91](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/a4e9d9195403680aaaa952c864226b16afb0b549))
 
 
 ### Features
@@ -31,76 +45,13 @@ All notable changes to this project will be documented in this file. See [standa
 * type params on reduce ([e735d70](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/e735d70e799e481489f4e991ce8a8e97e68ae407))
 
 
-### Bug Fixes
 
-* turn off base rule ([a4e9d91](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/a4e9d9195403680aaaa952c864226b16afb0b549))
-
-### 0.2.8 (2021-09-09)
+## [0.2.8](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/80a6ff9c85c158a96381e3f69a4a3b35bdef68a0...v0.2.8) (2021-09-09)
 
 
 ### Features
 
 * set up CI ([80a6ff9](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/80a6ff9c85c158a96381e3f69a4a3b35bdef68a0))
 
-## [0.2.8](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-typescript@0.2.7...eslint-config-salesforce-typescript@0.2.8) (2021-06-03)
-
-**Note:** Version bump only for package eslint-config-salesforce-typescript
 
 
-
-
-
-## [0.2.7](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-typescript@0.2.5...eslint-config-salesforce-typescript@0.2.7) (2021-05-12)
-
-**Note:** Version bump only for package eslint-config-salesforce-typescript
-
-
-
-
-
-## [0.2.5](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-typescript@0.2.3...eslint-config-salesforce-typescript@0.2.5) (2021-05-11)
-
-**Note:** Version bump only for package eslint-config-salesforce-typescript
-
-
-
-
-
-## [0.2.3](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-typescript@0.2.1...eslint-config-salesforce-typescript@0.2.3) (2021-05-11)
-
-**Note:** Version bump only for package eslint-config-salesforce-typescript
-
-
-
-
-
-## [0.2.1](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-typescript@0.2.0...eslint-config-salesforce-typescript@0.2.1) (2021-04-19)
-
-
-### Bug Fixes
-
-* **eslint-typescript:** use typescript-specific no-shadow rule ([2733eab](https://github.com/forcedotcom/sfdx-dev-packages/commit/2733eab865b314a824131c1b1300c7cf04626e35)), closes [#118](https://github.com/forcedotcom/sfdx-dev-packages/issues/118)
-
-
-
-
-
-# [0.2.0](https://github.com/forcedotcom/sfdx-dev-packages/compare/eslint-config-salesforce-typescript@0.1.0...eslint-config-salesforce-typescript@0.2.0) (2021-01-28)
-
-
-### Features
-
-* update typescript version ([#109](https://github.com/forcedotcom/sfdx-dev-packages/issues/109)) ([399a0b0](https://github.com/forcedotcom/sfdx-dev-packages/commit/399a0b03aa831f25511bb3391702c10dc5c4a488))
-
-
-
-
-
-# 0.1.0 (2020-07-21)
-
-
-### Features
-
-* add eslint and use it in all packages ([0165cc8](https://github.com/forcedotcom/sfdx-dev-packages/commit/0165cc8853079c7f987dddfb60ced3efb00deea0))
-* add javascipt eslint rules that typescript extends ([135ac73](https://github.com/forcedotcom/sfdx-dev-packages/commit/135ac73b8c513d8950ac69373349361d9f600a8c))
-* add salesforce license linting ([3213135](https://github.com/forcedotcom/sfdx-dev-packages/commit/3213135f34956335ef2c123ec680c2de2bc7f10f))

@@ -10,9 +10,9 @@
   "author": "Thomas <t.dvornik@salesforce.com>",
   "homepage": "https://github.com/forcedotcom/eslint-config-salesforce-typescript#readme",
   "license": "BSD-3-Clause",
-  "main": ".eslintrc.js",
+  "main": "index.js",
   "files": [
-    ".eslintrc.js"
+    "/index.js"
   ],
   "repository": "forcedotcom/eslint-config-salesforce-typescript",
   "bugs": {
@@ -31,6 +31,7 @@
     "access": "public"
   },
   "scripts": {
+    "test": "eslint -c index.js",
     "build": "echo 'no build necessary'"
   }
 }

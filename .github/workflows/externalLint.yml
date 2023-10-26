@@ -36,8 +36,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-node@v3
-        with:
-          node-version: ${{ inputs.nodeVersion }}
       - run: git clone ${{ inputs.externalProjectGitUrl}} $(pwd)
       - uses: salesforcecli/github-workflows/.github/actions/yarnInstallWithRetries@main
       - name: swap this dependency for the version on this branch

@@ -19,8 +19,9 @@ module.exports = {
     ],
     sourceType: 'module',
   },
-  plugins: ['@typescript-eslint', 'eslint-plugin-import', 'eslint-plugin-jsdoc'],
+  plugins: ['@typescript-eslint', 'eslint-plugin-import', 'eslint-plugin-jsdoc', 'unicorn'],
   rules: {
+    'unicorn/prefer-node-protocol': 'error',
     // Override @typescript-eslint/recommended
     '@typescript-eslint/no-explicit-any': 'error',
     '@typescript-eslint/no-namespace': 'off',

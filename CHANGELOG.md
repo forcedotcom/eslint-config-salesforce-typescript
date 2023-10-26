@@ -1,3 +1,7 @@
+## [1.1.3](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/1.1.2...1.1.3) (2023-10-25)
+
+
+
 ## [1.1.2](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/v1.1.1...1.1.2) (2023-07-13)
 
 

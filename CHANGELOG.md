@@ -1,9 +1,31 @@
-## [2.0.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/2.0.0...2.0.1) (2023-10-28)
+# [2.1.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/2.0.1...2.1.0) (2023-10-30)
+
+
+
+## [2.0.1-beta.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/2.0.0...2.0.1-beta.0) (2023-10-27)
+
+
+### Features
+
+* consolidate eslint stuff here ([4f62479](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/4f6247914eab76f9251e404195899f609b9a9483))
+
+
+
+## [2.0.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/2.0.1-beta.0...2.0.1) (2023-10-28)
 
 
 ### Bug Fixes
 
 * **deps:** bump eslint-plugin-import from 2.28.1 to 2.29.0 ([95fdfcf](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/95fdfcf9730b974c281b6b89a16e437c8e733c43))
+
+
+
+## [2.0.1-beta.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/2.0.0...2.0.1-beta.0) (2023-10-27)
+
+
+### Features
+
+* consolidate eslint stuff here ([4f62479](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/4f6247914eab76f9251e404195899f609b9a9483))
 
 
 

@@ -1,3 +1,12 @@
+## [3.0.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/2.1.0...3.0.1) (2023-10-30)
+
+
+### Bug Fixes
+
+* major version for new release ([72f056a](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/72f056a15a49597944897ffb7be545e8460fdd10))
+
+
+
 # [2.1.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/2.0.1...2.1.0) (2023-10-30)
 
 

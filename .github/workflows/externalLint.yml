@@ -38,9 +38,12 @@ jobs:
       - uses: actions/setup-node@v3
       - run: git clone ${{ inputs.externalProjectGitUrl}} $(pwd)
       - uses: salesforcecli/github-workflows/.github/actions/yarnInstallWithRetries@main
-      - name: swap this dependency for the version on this branch
+      - name: remove this dependency if it exists (can continue if not)
         run: |
           yarn remove ${{ inputs.packageName }}
+        continue-on-error: true
+      - name: swap this dependency for the version on this branch
+        run: |
           yarn add ${{ github.repository }}#${{ github.sha }} --dev
       - name: install/build ${{ inputs.packageName}} in node_modules
         working-directory: node_modules/${{ inputs.packageName }}

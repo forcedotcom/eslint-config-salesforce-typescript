@@ -1,3 +1,12 @@
+## [3.0.4](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.3...3.0.4) (2023-11-12)
+
+
+### Bug Fixes
+
+* **deps:** bump @typescript-eslint/parser from 6.9.1 to 6.10.0 ([#194](https://github.com/forcedotcom/eslint-config-salesforce-typescript/issues/194)) ([4df9eb3](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/4df9eb312f0d69b07b10e38d2aed926063cfe792))
+
+
+
 ## [3.0.3](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.2...3.0.3) (2023-11-12)
 
 

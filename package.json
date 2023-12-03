@@ -19,7 +19,7 @@
     "url": "https://github.com/forcedotcom/eslint-config-salesforce-typescript/issues"
   },
   "devDependencies": {
-    "typescript": "^5.2.2"
+    "typescript": "^5.3.2"
   },
   "publishConfig": {
     "access": "public"

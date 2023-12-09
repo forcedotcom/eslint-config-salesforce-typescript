@@ -1,3 +1,12 @@
+## [3.0.10](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.9...3.0.10) (2023-12-09)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-config-prettier from 9.0.0 to 9.1.0 ([6033a0c](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/6033a0c399b9475f9bf20aaad4b28d444c83e3e9))
+
+
+
 ## [3.0.9](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.8...3.0.9) (2023-12-09)
 
 

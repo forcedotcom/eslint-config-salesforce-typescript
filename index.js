@@ -97,7 +97,7 @@ module.exports = {
     {
       files: ["src/**"],
       rules: {
-        "import/no-extraneous-dependencies": "error",
+        "import/no-extraneous-dependencies": ["error", { includeTypes: false }],
       },
     },
   ],

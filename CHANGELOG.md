@@ -1,3 +1,12 @@
+## [3.0.12](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.11...3.0.12) (2023-12-16)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint from 8.55.0 to 8.56.0 ([bc12747](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/bc1274721261f34cb8ec38f79efb08e601a53392))
+
+
+
 ## [3.0.11](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.10...3.0.11) (2023-12-10)
 
 

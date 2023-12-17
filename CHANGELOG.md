@@ -1,3 +1,12 @@
+## [3.0.16](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.15...3.0.16) (2023-12-17)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-plugin-jsdoc from 46.9.0 to 46.9.1 ([4c3fafc](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/4c3fafc36e3735272a755f81dbb3d4102c656dc3))
+
+
+
 ## [3.0.15](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.14...3.0.15) (2023-12-17)
 
 

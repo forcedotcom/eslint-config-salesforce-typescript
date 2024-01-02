@@ -1,3 +1,84 @@
+## [3.0.20](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.19...3.0.20) (2023-12-30)
+
+
+### Bug Fixes
+
+* **deps:** bump @typescript-eslint/eslint-plugin from 6.15.0 to 6.16.0 ([5753613](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/57536137b6efffd353e1749a5d0497fdc10f1494))
+
+
+
+## [3.0.19](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.18...3.0.19) (2023-12-30)
+
+
+### Bug Fixes
+
+* **deps:** bump @typescript-eslint/parser from 6.15.0 to 6.16.0 ([8a5751b](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/8a5751b27c549c60bba86020837e2bc74f161347))
+
+
+
+## [3.0.18](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.17...3.0.18) (2023-12-23)
+
+
+### Bug Fixes
+
+* **deps:** bump @typescript-eslint/eslint-plugin from 6.14.0 to 6.15.0 ([870c27d](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/870c27d9867f7de2d6b3a80d17e64c379407cbc9))
+
+
+
+## [3.0.17](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.16...3.0.17) (2023-12-23)
+
+
+### Bug Fixes
+
+* **deps:** bump @typescript-eslint/parser from 6.14.0 to 6.15.0 ([0b0252c](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/0b0252cb443ceead49a88cac309657817ffa858e))
+
+
+
+## [3.0.16](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.15...3.0.16) (2023-12-17)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-plugin-jsdoc from 46.9.0 to 46.9.1 ([4c3fafc](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/4c3fafc36e3735272a755f81dbb3d4102c656dc3))
+
+
+
+## [3.0.15](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.14...3.0.15) (2023-12-17)
+
+
+### Bug Fixes
+
+* **deps:** bump @typescript-eslint/parser from 6.13.2 to 6.14.0 ([bf493a0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/bf493a0a00277d0e1f7cefa492afd18e4f73c931))
+
+
+
+## [3.0.14](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.13...3.0.14) (2023-12-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @typescript-eslint/eslint-plugin from 6.13.2 to 6.14.0 ([726a2b1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/726a2b175c648a6590610f46de3b7b4c13c575e7))
+
+
+
+## [3.0.13](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.12...3.0.13) (2023-12-16)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-plugin-import from 2.29.0 to 2.29.1 ([0db660c](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/0db660c36d1676afedcfc1c8dd378e1b376bb4eb))
+
+
+
+## [3.0.12](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.11...3.0.12) (2023-12-16)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint from 8.55.0 to 8.56.0 ([bc12747](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/bc1274721261f34cb8ec38f79efb08e601a53392))
+
+
+
 ## [3.0.11](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.10...3.0.11) (2023-12-10)
 
 

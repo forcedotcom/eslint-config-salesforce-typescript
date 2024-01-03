@@ -22,6 +22,7 @@ module.exports = {
   plugins: ['@typescript-eslint', 'eslint-plugin-import', 'eslint-plugin-jsdoc', 'unicorn'],
   rules: {
     'unicorn/prefer-node-protocol': 'error',
+    'import/no-extraneous-dependencies': ['off'],
     // Override @typescript-eslint/recommended
     '@typescript-eslint/no-explicit-any': 'error',
     '@typescript-eslint/no-namespace': 'off',
@@ -63,7 +64,7 @@ module.exports = {
       },
     ],
     '@typescript-eslint/member-ordering': 'error',
-    "@typescript-eslint/no-shadow": "error",
+    '@typescript-eslint/no-shadow': 'error',
     '@typescript-eslint/return-await': 'error',
     // turning off the base rule is recommended by ts-eslint
     'no-return-await': 'off',
@@ -84,7 +85,24 @@ module.exports = {
     '@typescript-eslint/switch-exhaustiveness-check': 'error',
     '@typescript-eslint/type-annotation-spacing': 'error',
     '@typescript-eslint/unified-signatures': 'error',
-    "no-shadow": "off",
+    'no-shadow': 'off',
   },
   ignorePatterns: ['*.js'],
+  overrides: [
+    {
+      files: ['src/**'],
+      rules: {
+        'import/no-extraneous-dependencies': [
+          'error',
+          {
+            includeTypes: false,
+            devDependencies: false,
+            peerDependencies: false,
+            bundledDependencies: false,
+            optionalDependencies: false,
+          },
+        ],
+      },
+    },
+  ],
 };

@@ -22,7 +22,10 @@ module.exports = {
   plugins: ['@typescript-eslint', 'eslint-plugin-import', 'eslint-plugin-jsdoc', 'unicorn'],
   rules: {
     'unicorn/prefer-node-protocol': 'error',
+    'unicorn/numeric-separators-style': 'warn',
+    // turn the rule off everywhere.  Then, in overrides, turn it on for just src
     'import/no-extraneous-dependencies': ['off'],
+
     // Override @typescript-eslint/recommended
     '@typescript-eslint/no-explicit-any': 'error',
     '@typescript-eslint/no-namespace': 'off',

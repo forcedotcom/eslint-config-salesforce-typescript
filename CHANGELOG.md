@@ -1,3 +1,12 @@
+# [3.2.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.1.0...3.2.0) (2024-01-04)
+
+
+### Features
+
+* numeric separators ([caa02c6](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/caa02c613ebce5818e4a488534f86cc020c5876b))
+
+
+
 # [3.1.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.20...3.1.0) (2024-01-03)
 
 

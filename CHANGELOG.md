@@ -1,3 +1,13 @@
+# [3.1.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.20...3.1.0) (2024-01-03)
+
+
+### Features
+
+* extraneous dep check ([26d9137](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/26d91370deef1c4e94b24127ca1788f7e247a633))
+* only accept 'regular' dependencies ([5cb063b](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/5cb063bcfcc47a6e8a7b39fcec9d4936a3d61da2))
+
+
+
 ## [3.0.20](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.0.19...3.0.20) (2023-12-30)
 
 

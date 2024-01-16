@@ -25,6 +25,7 @@ module.exports = {
     'unicorn/numeric-separators-style': 'warn',
     // turn the rule off everywhere.  Then, in overrides, turn it on for just src
     'import/no-extraneous-dependencies': ['off'],
+    '@typescript-eslint/no-unnecessary-condition': 'error',
 
     // Override @typescript-eslint/recommended
     '@typescript-eslint/no-explicit-any': 'error',

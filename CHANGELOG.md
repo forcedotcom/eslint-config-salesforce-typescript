@@ -1,3 +1,12 @@
+## [3.2.6](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.2.5...3.2.6) (2024-01-27)
+
+
+### Bug Fixes
+
+* **deps:** bump @typescript-eslint/eslint-plugin from 6.19.0 to 6.19.1 ([f0cf237](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/f0cf237729846c8378e144c34e4593faa692b249))
+
+
+
 ## [3.2.5](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.2.4...3.2.5) (2024-01-20)
 
 

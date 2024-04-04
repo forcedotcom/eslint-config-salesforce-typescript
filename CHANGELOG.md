@@ -1,3 +1,12 @@
+## [3.2.12](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.2.11...3.2.12) (2024-04-04)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-config-salesforce from 2.0.2 to 2.1.0 ([#238](https://github.com/forcedotcom/eslint-config-salesforce-typescript/issues/238)) ([9251f2d](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/9251f2da54724a529ab4cd474a078597b4536669))
+
+
+
 ## [3.2.11](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.2.10...3.2.11) (2024-02-10)
 
 

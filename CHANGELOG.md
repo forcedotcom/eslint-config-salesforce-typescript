@@ -1,3 +1,12 @@
+# [3.3.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.2.12...3.3.0) (2024-04-05)
+
+
+### Features
+
+* encourage type not interface ([#239](https://github.com/forcedotcom/eslint-config-salesforce-typescript/issues/239)) ([42d8208](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/42d820828b5bbfe3a10515525762e69058ffabbe))
+
+
+
 ## [3.2.12](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.2.11...3.2.12) (2024-04-04)
 
 

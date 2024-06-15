@@ -1,3 +1,12 @@
+## [3.3.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.3.0...3.3.1) (2024-06-15)
+
+
+### Bug Fixes
+
+* **deps:** bump braces from 3.0.2 to 3.0.3 ([b3075b4](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/b3075b4592f107423142bf5436b35d96e1a9c254))
+
+
+
 # [3.3.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.2.12...3.3.0) (2024-04-05)
 
 

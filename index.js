@@ -32,7 +32,6 @@ module.exports = {
     '@typescript-eslint/restrict-template-expressions': [
       'error',
       {
-        allowNullish: true,
         allowBoolean: true,
         allowNumber: true,
       },

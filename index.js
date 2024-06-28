@@ -95,19 +95,17 @@ module.exports = {
   ignorePatterns: ['*.js'],
   overrides: [
     {
-      files: ['src/**'],
-      '@typescript-eslint/restrict-template-expressions': [
-        'error',
-        {
-          allowNullish: false,
-          allowBoolean: true,
-          allowNumber: true,
-        },
-      ],
-    },
-    {
+      // put stricter rules you only want to apply to production code here
       files: ['src/**'],
       rules: {
+        '@typescript-eslint/restrict-template-expressions': [
+          'error',
+          {
+            allowNullish: false,
+            allowBoolean: true,
+            allowNumber: true,
+          },
+        ],
         'import/no-extraneous-dependencies': [
           'error',
           {

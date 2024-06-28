@@ -32,7 +32,8 @@ module.exports = {
     '@typescript-eslint/restrict-template-expressions': [
       'error',
       {
-        allowNullish: false,
+        // true generally (so we get it in /test), we override it to false for src lower down
+        allowNullish: true,
         allowBoolean: true,
         allowNumber: true,
       },
@@ -93,6 +94,17 @@ module.exports = {
   },
   ignorePatterns: ['*.js'],
   overrides: [
+    {
+      files: ['src/**'],
+      '@typescript-eslint/restrict-template-expressions': [
+        'error',
+        {
+          allowNullish: false,
+          allowBoolean: true,
+          allowNumber: true,
+        },
+      ],
+    },
     {
       files: ['src/**'],
       rules: {

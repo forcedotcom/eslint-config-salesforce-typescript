@@ -1,3 +1,12 @@
+# [3.4.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.3.1...3.4.0) (2024-07-24)
+
+
+### Features
+
+* no null/undefined in template literal ([0b2232d](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/0b2232d3616d458d90e95123c33187ee6424792e))
+
+
+
 ## [3.3.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.3.0...3.3.1) (2024-06-15)
 
 

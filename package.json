@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-salesforce-typescript",
-  "version": "4.0.0",
+  "version": "4.0.1-deb.0",
   "description": "The eslint config for Salesforce typescript projects",
   "keywords": [
     "Salesforce",

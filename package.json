@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-salesforce-typescript",
-  "version": "3.4.0",
+  "version": "4.0.0",
   "description": "The eslint config for Salesforce typescript projects",
   "keywords": [
     "Salesforce",
@@ -9,7 +9,7 @@
   ],
   "author": "Salesforce",
   "homepage": "https://github.com/forcedotcom/eslint-config-salesforce-typescript#readme",
-  "license": "BSD-3-Clause",
+  "license": "Apache-2.0",
   "main": "index.js",
   "files": [
     "/index.js"
@@ -36,7 +36,7 @@
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-salesforce": "^2.2.0",
-    "eslint-config-salesforce-license": "^0.2.0",
+    "eslint-config-salesforce-license": "^1.0.2",
     "eslint-plugin-header": "^3.1.1",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsdoc": "^46.10.1",

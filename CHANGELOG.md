@@ -1,3 +1,16 @@
+## [4.0.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/4.0.1-deb.0...4.0.1) (2025-08-29)
+
+
+
+## [4.0.1-deb.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.4.0...4.0.1-deb.0) (2025-08-28)
+
+
+### Bug Fixes
+
+* oss templates ([17e54b0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/17e54b04bf962af817a893f6d61d9a73be7bca83))
+
+
+
 # [3.4.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/3.3.1...3.4.0) (2024-07-24)
 
 

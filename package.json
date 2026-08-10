@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-salesforce-typescript",
-  "version": "5.0.0",
+  "version": "6.0.0",
   "description": "The eslint flat config for Salesforce typescript projects",
   "keywords": [
     "Salesforce",

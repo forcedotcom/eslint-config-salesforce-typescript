@@ -1,3 +1,32 @@
+# [6.0.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/4.0.1...6.0.0) (2026-08-10)
+
+
+### Bug Fixes
+
+* add test script for CI ([904fe18](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/904fe1896907671d6697b00644d98b3806d41541))
+* restore yarn.lock and use ^8.66.0 for typescript-eslint ([6c818ef](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/6c818ef2721abd4e96d9b039933419d2de1dc96f))
+
+
+* feat!: rewrite as ESLint 10 flat config ([274acdc](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/274acdcde46ed4b3d361d262ea7f7609d15fba43))
+
+
+### BREAKING CHANGES
+
+* exports a flat config array instead of a legacy eslintrc object.
+
+- Replaces eslintrc-format index.js with flat config index.mjs
+- Uses typescript-eslint v8 unified config (replaces @typescript-eslint/parser + plugin)
+- Replaces eslint-plugin-import with eslint-plugin-import-x (ESLint 10 compatible)
+- Replaces eslint-plugin-header with @tony.ganchev/eslint-plugin-header
+- Uses projectService instead of hardcoded tsconfig paths
+- Drops deprecated formatting rules (member-delimiter-style, quotes, type-annotation-spacing) — Prettier handles these
+- Removes eslint-config-salesforce and eslint-config-salesforce-license deps (rules inlined)
+- Adds peerDependencies on eslint ^10 and typescript ^5.5.4 || ^6
+- Consumers use: export { default } from 'eslint-config-salesforce-typescript'
+  or: defineConfig([{ extends: [sfConfig] }])
+
+
+
 ## [4.0.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/4.0.1-deb.0...4.0.1) (2025-08-29)
 
 

@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-salesforce-typescript",
-  "version": "4.0.1",
-  "description": "The eslint config for Salesforce typescript projects",
+  "version": "5.0.0",
+  "description": "The eslint flat config for Salesforce typescript projects",
   "keywords": [
     "Salesforce",
     "eslint",
@@ -10,36 +10,40 @@
   "author": "Salesforce",
   "homepage": "https://github.com/forcedotcom/eslint-config-salesforce-typescript#readme",
   "license": "Apache-2.0",
-  "main": "index.js",
+  "type": "module",
+  "exports": {
+    ".": "./index.mjs",
+    "./package.json": "./package.json"
+  },
   "files": [
-    "/index.js"
+    "index.mjs"
   ],
   "repository": "forcedotcom/eslint-config-salesforce-typescript",
   "bugs": {
     "url": "https://github.com/forcedotcom/eslint-config-salesforce-typescript/issues"
   },
-  "devDependencies": {
-    "@salesforce/prettier-config": "^0.0.3",
-    "prettier": "^3.3.3",
-    "typescript": "^5.4.5"
-  },
   "publishConfig": {
     "access": "public"
   },
   "scripts": {
-    "test": "eslint -c index.js",
     "build": "echo 'no build necessary'"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.21.0",
-    "@typescript-eslint/parser": "^6.21.0",
-    "eslint": "^8.56.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-config-salesforce": "^2.2.0",
-    "eslint-config-salesforce-license": "^1.0.2",
-    "eslint-plugin-header": "^3.1.1",
-    "eslint-plugin-import": "^2.29.1",
-    "eslint-plugin-jsdoc": "^46.10.1",
-    "eslint-plugin-unicorn": "^50.0.1"
+    "@eslint/js": "^10.0.0",
+    "@tony.ganchev/eslint-plugin-header": "^3.4.4",
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-import-x": "^4.17.1",
+    "eslint-plugin-jsdoc": "^63.3.2",
+    "eslint-plugin-unicorn": "^72.0.0",
+    "globals": "^15.14.0",
+    "typescript-eslint": "^8.65.0"
+  },
+  "peerDependencies": {
+    "eslint": "^10.0.0",
+    "typescript": "^5.5.4 || ^6"
+  },
+  "devDependencies": {
+    "eslint": "^10.4.0",
+    "typescript": "^5.5.4"
   }
 }

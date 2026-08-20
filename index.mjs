@@ -8,7 +8,14 @@ import headerPlugin from '@tony.ganchev/eslint-plugin-header';
 
 export default tseslint.config(
   {
-    ignores: ['**/node_modules/**', 'lib/**', '**/*.js', '**/*.cjs', '**/*.mjs'],
+    ignores:
+        [
+        '**/node_modules/**',
+        'lib/**',
+        '**/*.js',
+        '**/*.cjs',
+        '**/*.mjs',
+      ],
   },
   eslint.configs.recommended,
   ...tseslint.configs.recommendedTypeChecked,

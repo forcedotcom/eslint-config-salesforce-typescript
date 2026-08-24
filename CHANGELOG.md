@@ -1,3 +1,17 @@
+# [7.0.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/6.0.2...7.0.0) (2026-08-24)
+
+
+### Features
+
+* remove TypeScript v5 from peer dependencies ([61af08d](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/61af08d53d444a7e80daca9fcf597c0cc541803b))
+
+
+### BREAKING CHANGES
+
+* removes support for TypeScript v5 as a peer dependency.
+
+
+
 ## [6.0.2](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/6.0.1...6.0.2) (2026-08-24)
 
 

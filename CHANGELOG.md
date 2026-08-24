@@ -1,3 +1,12 @@
+## [6.0.2](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/6.0.1...6.0.2) (2026-08-24)
+
+
+### Reverts
+
+* Revert "feat!: remove support for TypeScript v5" ([6b383fe](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/6b383fe5f74a25dd395ab8812d0830950867d517))
+
+
+
 ## [6.0.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/6.0.0...6.0.1) (2026-08-24)
 
 

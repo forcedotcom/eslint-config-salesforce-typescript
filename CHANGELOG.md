@@ -1,3 +1,12 @@
+## [6.0.1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/6.0.0...6.0.1) (2026-08-24)
+
+
+### Bug Fixes
+
+* update index.mjs for linting error ([3d61ea8](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/3d61ea819811b61575b030d3391c8454e3efba2e))
+
+
+
 # [6.0.0](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/4.0.1...6.0.0) (2026-08-10)
 
 

@@ -1,3 +1,12 @@
+## [7.0.3](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/7.0.2...7.0.3) (2026-10-23)
+
+
+### Bug Fixes
+
+* **deps:** bump source-map-js from 1.2.1 to 1.2.2 ([dd12556](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/dd1255637174084d1a76d0341c42e3da59b8deed))
+
+
+
 ## [7.0.2](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/7.0.1...7.0.2) (2026-10-23)
 
 

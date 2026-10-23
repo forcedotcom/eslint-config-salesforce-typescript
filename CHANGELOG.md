@@ -1,3 +1,12 @@
+## [7.0.4](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/7.0.3...7.0.4) (2026-10-23)
+
+
+### Bug Fixes
+
+* **deps:** bump brace-expansion from 5.0.9 to 5.0.12 ([f5cb485](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/f5cb485ae9151a18164a32e397073cfbd64d4c37))
+
+
+
 ## [7.0.3](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/7.0.2...7.0.3) (2026-10-23)
 
 

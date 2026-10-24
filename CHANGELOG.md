@@ -1,3 +1,12 @@
+## [7.0.5](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/7.0.4...7.0.5) (2026-10-24)
+
+
+### Bug Fixes
+
+* **deps:** bump typescript-eslint from 8.71.2 to 8.72.0 ([203dfe1](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/203dfe1cf2f6eca15905d831fb5bfadddb966b05))
+
+
+
 ## [7.0.4](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/7.0.3...7.0.4) (2026-10-23)
 
 

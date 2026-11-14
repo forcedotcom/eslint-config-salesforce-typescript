@@ -1,3 +1,12 @@
+## [7.0.7](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/7.0.6...7.0.7) (2026-11-14)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-plugin-import-x from 4.17.1 to 4.18.1 ([67c05af](https://github.com/forcedotcom/eslint-config-salesforce-typescript/commit/67c05af25f5737d9c02fd59a34dfa5f3ba45f35b))
+
+
+
 ## [7.0.6](https://github.com/forcedotcom/eslint-config-salesforce-typescript/compare/7.0.5...7.0.6) (2026-10-31)
 
 
